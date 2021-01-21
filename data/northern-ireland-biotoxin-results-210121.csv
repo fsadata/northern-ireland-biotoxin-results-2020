@@ -1,0 +1,29 @@
+Lough,RepresentativeMonitoringPoints,ShellfishSpecies,DateOfSampling ,DSP-OA+PTX160micrograms/kilograms,DSP-AZA160micrograms/kilograms,DSP-YTX3.75milligram/kilogram,PSP80micrograms/100grams,ASP20micrograms/grams,CurrentStatus,Comments
+Belfast,"RMP1 - B1 - AFFNI55 - represents B2 AFFNI51, B4 AFFNI15, B5 AFFNI96, B9 AFFNI 85",Mussels,2021-01-06,NEG,NEG,NEG,NEG,<0.3,OPEN,Sample delayed due to strong NE winds
+Belfast,"RMP2 - B3 - AFFNI50 - represents B4 AFFNI15, B7 AFFNI60A, B8 AFFNI37, B9 AFFNI 85, B10 AFFNI28, B11 AFFNI97, B2 AFFNI 51 and B6 AFFNI56A ",Mussels,2021-01-06,NEG,NEG,NEG,NEG,<0.3,OPEN,Sample delayed due to strong NE winds
+Belfast,"RMP3 - B12 - AFFNI54 - represents B14 AFFNI9, B8 AFFNI37, B11 AFFNI97 and B24 AFFNI56B",Mussels,2021-01-06,NEG,NEG,NEG,NEG,<0.3,OPEN,Sample delayed due to strong NE winds
+Belfast,RMP4 - B20 - AFFNI53,Mussels,2021-01-06,NEG,NEG,NEG,NEG,<0.3,OPEN,Sample delayed due to strong NE winds
+Carlingford,C7 - AFFNI73,Oysters,2021-01-12,NEG,NEG,NEG,NEG,<0.3,OPEN,Sample delayed - Loughs Agency unable to retrieve sample due to tide height.
+Carlingford,C9 - AFFNI39,Oysters,2021-01-19,NEG,NEG,NEG,NEG,<0.3,OPEN,
+Carlingford, C11 - AFFNI84,Oysters,2021-01-06,NEG,NEG,NEG,NEG,<0.3,OPEN,
+Carlingford,Narrow Water Wild Fishery,Mussels,2021-01-06,NEG,NEG,NEG,NEG,<0.3,OPEN,
+Carlingford, C15 - AFFNI89,Oysters,2021-01-19,NEG,NEG,NEG,NEG,<0.3,OPEN,
+Carlingford, C17 - AFFNI 92,Oysters,2021-01-19,NEG,NEG,NEG,NEG,<0.3,OPEN,
+Carlingford,C1 - AFFNI27,Mussels,2021-01-06,NEG,NEG,NEG,NEG,<0.3,OPEN,
+Dundrum,Inner North - DB1 - AFFNI95A,Oysters,2021-01-04,NEG,NEG,NEG,NEG,<0.3,OPEN,
+Dundrum,Inner North - DB1 - AFFNI95A,Oysters,2021-01-18,NEG,NEG,NEG,NT,NT,OPEN,
+Dundrum,Inner North - DB1 - AFFNI95A,Mussels,2021-01-04,NEG,NEG,NEG,NEG,<0.3,OPEN,
+Dundrum,Inner North - DB1 - AFFNI95A,Mussels,2021-01-18,NEG,NEG,NEG,NT,NT,OPEN,
+Killough,K1 - AFFNI18,Oysters,2021-01-04,NEG,NEG,NEG,NEG,0.35,OPEN,
+Lough Foyle,Production Area 3,Mussels ,,,,,,,OPEN,
+Lough Foyle,Production Area 4,Mussels ,,,,,,,OPEN,
+Lough Foyle,Production Area 3,Oysters,2021-01-13,NEG,NEG,NEG,NEG,<0.3,OPEN,
+Lough Foyle,Production Area 4,Oysters ,2021-01-13,NEG,NEG,NEG,NEG,<0.3,OPEN,
+Larne Lough,L3 - AFFNI88,Oysters,2021-01-06,NEG,NEG,NEG,NEG,<0.3,OPEN,
+Larne Lough,L3 - AFFNI88,Oysters,2021-01-12,NEG,NEG,NEG,NT,NT,OPEN,
+Larne Lough,L3 - AFFNI88,Oysters,2021-01-18,NEG,NEG,NEG,NT,NT,OPEN,
+Strangford,S2 - AFFNI42,Mussels,2021-01-04,NEG,NEG,NEG,NEG,<0.3,OPEN,
+Strangford,S2 - AFFNI42,Mussels,2021-01-11,NEG,NEG,NEG,NT,NT,OPEN,
+Strangford,S2 - AFFNI42,Mussels,2021-01-19,NEG,NEG,NEG,NT,NT,OPEN,
+Strangford,S7 - AFFNI76,Oysters,2021-01-14,,,,,,OPEN,Missed sample due to lack of daylight  
+Strangford,S7 - AFFNI76,Oysters,2021-01-18,NEG,NEG,NEG,NEG,<0.3,OPEN,
